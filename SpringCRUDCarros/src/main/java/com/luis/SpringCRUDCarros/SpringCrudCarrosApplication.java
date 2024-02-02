@@ -1,13 +1,13 @@
-package com.springcrud.SpringCarrosCRUD;
+package com.luis.SpringCRUDCarros;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringCarrosCrudApplication {
+public class SpringCrudCarrosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringCarrosCrudApplication.class, args);
+		SpringApplication.run(SpringCrudCarrosApplication.class, args);
 	}
 
 }

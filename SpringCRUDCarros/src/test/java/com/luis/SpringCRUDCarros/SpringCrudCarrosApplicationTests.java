@@ -1,10 +1,10 @@
-package com.springcrud.SpringCarrosCRUD;
+package com.luis.SpringCRUDCarros;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringCarrosCrudApplicationTests {
+class SpringCrudCarrosApplicationTests {
 
 	@Test
 	void contextLoads() {
